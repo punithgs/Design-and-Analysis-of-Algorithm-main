@@ -1,0 +1,6 @@
+set title "MergeSort"
+set xlabel "No. of input's"
+set ylabel "Time"
+set style data linespoint
+plot "mergesort.txt"
+pause -1
